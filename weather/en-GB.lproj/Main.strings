@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Feels Like - 7°C"; ObjectID = "2EH-Ak-gw5"; */
+"2EH-Ak-gw5.text" = "Feels Like - 7°C";
+
+/* Class = "UISearchBar"; placeholder = "Search Your City Here"; ObjectID = "7eJ-88-6fx"; */
+"7eJ-88-6fx.placeholder" = "Search Your City Here";
+
+/* Class = "UISearchBar"; 7eJ-88-6fx.scopeButtonTitles[0] = "Title"; ObjectID = "7eJ-88-6fx"; */
+"7eJ-88-6fx.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; 7eJ-88-6fx.scopeButtonTitles[1] = "Title"; ObjectID = "7eJ-88-6fx"; */
+"7eJ-88-6fx.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UILabel"; text = "Highest Temp - 22°C"; ObjectID = "DfP-ZK-nno"; */
+"DfP-ZK-nno.text" = "Highest Temp - 22°C";
+
+/* Class = "UILabel"; text = "Cloudy"; ObjectID = "J7m-kf-JIY"; */
+"J7m-kf-JIY.text" = "Cloudy";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "O0X-og-X4n"; */
+"O0X-og-X4n.text" = "Date";
+
+/* Class = "UILabel"; text = "Sunset"; ObjectID = "ZLN-p5-0bR"; */
+"ZLN-p5-0bR.text" = "Sunset";
+
+/* Class = "UILabel"; text = "Sunrise"; ObjectID = "oJJ-9H-kXL"; */
+"oJJ-9H-kXL.text" = "Sunrise";
+
+/* Class = "UILabel"; text = "Air Pressure"; ObjectID = "tHU-Bg-d4S"; */
+"tHU-Bg-d4S.text" = "Air Pressure";
+
+/* Class = "UILabel"; text = "Lowest For the Day - 7°C"; ObjectID = "wWx-SF-t1e"; */
+"wWx-SF-t1e.text" = "Lowest For the Day - 7°C";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "wvq-C7-fuV"; */
+"wvq-C7-fuV.text" = "Humidity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yZO-0b-oKX"; */
+"yZO-0b-oKX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zBn-ld-BAM"; */
+"zBn-ld-BAM.text" = "Label";
