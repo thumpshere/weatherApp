@@ -8,6 +8,10 @@ This allows you to
 
 - Store data offline for last searched City
 
+(https://github.com/thumpshere/weatherApp/blob/main/screenshot.png)
+https://github.com/thumpshere/weatherApp/blob/main/screenshot.png
+
+
 # How to use
 
 - Clone the repository
