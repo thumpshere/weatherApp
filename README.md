@@ -1,3 +1,4 @@
+
 # weatherApp
 This app is created using https://openweathermap.org/ APIs.
 This allows you to 
@@ -8,9 +9,7 @@ This allows you to
 
 - Store data offline for last searched City
 
-(https://github.com/thumpshere/weatherApp/blob/main/screenshot.png)
-https://github.com/thumpshere/weatherApp/blob/main/screenshot.png
-
+![screenshot](https://user-images.githubusercontent.com/10941262/117795612-f9f8a980-b26b-11eb-81c7-e8550ce1b930.png)
 
 # How to use
 
