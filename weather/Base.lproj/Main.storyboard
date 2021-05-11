@@ -104,10 +104,12 @@
                                                                         </label>
                                                                         <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cloud" translatesAutoresizingMaskIntoConstraints="NO" id="qyu-Hg-WSJ">
                                                                             <rect key="frame" x="147" y="154" width="120" height="120"/>
+                                                                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                             <constraints>
                                                                                 <constraint firstAttribute="width" constant="120" id="CBK-fA-h18"/>
                                                                                 <constraint firstAttribute="height" constant="120" id="Iw8-2a-p09"/>
                                                                             </constraints>
+                                                                            <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="large" weight="heavy"/>
                                                                         </imageView>
                                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wvq-C7-fuV">
                                                                             <rect key="frame" x="18" y="561" width="378" height="50"/>

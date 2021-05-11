@@ -39,7 +39,7 @@ class weatherViewModel: NSObject {
   }
 
   
-  func saveFavoritesToUserDefaults(city:String,shouldAppend:Bool,favoritesArray:[String]) {
+  func saveFavoritesToUserDefaults(city:String,shouldAppend:Bool,favoritesArray:[String]) -> [String] {
     var favorites = favoritesArray
     if (shouldAppend && !favorites.contains(city)){
       favorites.append(city)
@@ -48,6 +48,7 @@ class weatherViewModel: NSObject {
       favorites = fav
     }
     WeatherHelper.saveCityObjecttoUserDefaults(value: favorites, key: UserDefaultKeys.favorites)
+    return favorites
   }
   
   // MARK:API call METHODS

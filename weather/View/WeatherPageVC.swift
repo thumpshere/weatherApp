@@ -150,7 +150,7 @@ class WeatherPageVC: UIViewController {
   }
   
   func saveFavoritesToUserDefaults(city:String,shouldAppend:Bool) {
-    self.viewModel.saveFavoritesToUserDefaults(city: city, shouldAppend: shouldAppend, favoritesArray: self.Favorites)
+    self.Favorites = self.viewModel.saveFavoritesToUserDefaults(city: city, shouldAppend: shouldAppend, favoritesArray: self.Favorites)
   }
   
   // MARK: ViewModel Callback Handler
