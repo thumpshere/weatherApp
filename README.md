@@ -17,23 +17,23 @@ This allows you to
 
 - Register on [OpenWeatherMap](https://openweathermap.org/)and get an API key.
 
-- Open terminal on your map and go to project folder.
+- Open terminal on your mac and go to project folder.
 
 - Run pod install (if you dont have cocoapods installed Please refer to - [CocoaPods](https://cocoapods.org/) )
 
-- Open weather.XcWorkspace file.
+- Open weather.xcworkspace file.
 
-- Open file Weather/Common/Constants/Constants.swift
+- Open file weather/Common/Constants/Constants.swift
 
-- Replace appToken with apikey received from openweather.
+- Replace appToken with apikey mentioned on [OpenWeatherMap API keys](https://home.openweathermap.org/api_keys).
 
 - Run the App.
 
 # Third Party Libraries used
 
-- [Alamofire](https://github.com/Alamofire/Alamofire) 
-- [Cache](https://github.com/hyperoslo/Cache)
-- [Reachability Swift](https://github.com/ashleymills/Reachability.swift)
-- [SDWebimage](https://github.com/SDWebImage/SDWebImage)
-- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+- [Alamofire](https://github.com/Alamofire/Alamofire) For Nteworking
+- [Cache](https://github.com/hyperoslo/Cache) - For storage
+- [Reachability Swift](https://github.com/ashleymills/Reachability.swift) - For Network Connection Availability
+- [SDWebimage](https://github.com/SDWebImage/SDWebImage) - For Image Caching
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - For JSON parsing
 
