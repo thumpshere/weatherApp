@@ -2,24 +2,26 @@
 This app is created using https://openweathermap.org/ APIs.
 This allows you to 
 
--> search and display efficient weather data in a clean readable format.
+- search and display efficient weather data in a clean readable format.
 
--> Bookmark your favorite cities.
+- Bookmark your favorite cities.
 
--> Store data offline for last searched City
+- Store data offline for last searched City
 
 # How to use
 
--> Clone the repository
+- Clone the repository
 
--> Register on https://openweathermap.org/ and get an API key.
+- Register on https://openweathermap.org/ and get an API key.
 
--> Open terminal on your map and go to project folder.
+- Open terminal on your map and go to project folder.
 
--> Run pod install (if you dont have cocoapods installed Please refer to - https://cocoapods.org/ )
+- Run pod install (if you dont have cocoapods installed Please refer to - https://cocoapods.org/ )
 
--> Open weather.XcWorkspace file.
+- Open weather.XcWorkspace file.
 
--> Open file Weather/Common/Constants/Constants.swift
+- Open file Weather/Common/Constants/Constants.swift
 
--> replace appToken with apikey received from openweather.
+- Replace appToken with apikey received from openweather.
+
+- Run the App.
