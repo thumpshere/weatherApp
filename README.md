@@ -1,6 +1,6 @@
 
 # weatherApp
-This app is created using https://openweathermap.org/ APIs.
+This app is created using [OpenWeatherMap](https://openweathermap.org/) APIs.
 This allows you to 
 
 - search and display efficient weather data in a clean readable format.
@@ -15,11 +15,11 @@ This allows you to
 
 - Clone the repository
 
-- Register on https://openweathermap.org/ and get an API key.
+- Register on [OpenWeatherMap](https://openweathermap.org/)and get an API key.
 
 - Open terminal on your map and go to project folder.
 
-- Run pod install (if you dont have cocoapods installed Please refer to - https://cocoapods.org/ )
+- Run pod install (if you dont have cocoapods installed Please refer to - [CocoaPods](https://cocoapods.org/) )
 
 - Open weather.XcWorkspace file.
 
