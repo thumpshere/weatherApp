@@ -15,7 +15,7 @@ struct Constants {
   static let cachedFavoritesObjectKey = "favoritesObject"
   static let dataStoreId =  "apiData"
   static let dataEmptyFromServer =  "emptyDataFromServer"
-  static let appToken = "58d09635fa695377b40b52e9655ee494"
+  static let appToken = ""
   static let dataTypeMetric = "metric"
   static let degreeCelsius = "°C"
   static let imageExtension = "@2x.png"
