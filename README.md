@@ -25,3 +25,12 @@ This allows you to
 - Replace appToken with apikey received from openweather.
 
 - Run the App.
+
+# Third Party Libraries used
+
+- [Alamofire](https://github.com/Alamofire/Alamofire) 
+- [Cache](https://github.com/hyperoslo/Cache)
+- [Reachability Swift](https://github.com/ashleymills/Reachability.swift)
+- [SDWebimage](https://github.com/SDWebImage/SDWebImage)
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+
